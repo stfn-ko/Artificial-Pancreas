@@ -1,14 +1,16 @@
 # FL&KBS
 
 1_deadline_date: December 9, 2022
+
 Deadline: Deadline in: 29d
+
 Finished: No
+
 ID: IMAT3406
+
 Week Notes: https://www.notion.so/Week-2-0abfdb49e90945adbb6b6e2f8a96e294
 
-# Assessment
-
-## Rubric
+# Assessment : Rubric
 
 ## Task:
 
